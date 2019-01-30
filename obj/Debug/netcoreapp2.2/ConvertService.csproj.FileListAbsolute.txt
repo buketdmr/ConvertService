@@ -1,0 +1,14 @@
+/Users/buket/PROJECTS/ConvertService/bin/Debug/netcoreapp2.2/ConvertService.deps.json
+/Users/buket/PROJECTS/ConvertService/bin/Debug/netcoreapp2.2/ConvertService.runtimeconfig.json
+/Users/buket/PROJECTS/ConvertService/bin/Debug/netcoreapp2.2/ConvertService.runtimeconfig.dev.json
+/Users/buket/PROJECTS/ConvertService/bin/Debug/netcoreapp2.2/ConvertService.dll
+/Users/buket/PROJECTS/ConvertService/bin/Debug/netcoreapp2.2/ConvertService.pdb
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.csprojAssemblyReference.cache
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.csproj.CoreCompileInputs.cache
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.RazorAssemblyInfo.cache
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.RazorAssemblyInfo.cs
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.AssemblyInfoInputs.cache
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.AssemblyInfo.cs
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.RazorTargetAssemblyInfo.cache
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.dll
+/Users/buket/PROJECTS/ConvertService/obj/Debug/netcoreapp2.2/ConvertService.pdb

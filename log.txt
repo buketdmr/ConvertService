@@ -1,0 +1,10 @@
+
+Entered number: 1 -> one
+Entered number: 123 -> one hundred and twenty three
+Entered number: 1 -> one
+Entered number: 123 -> one hundred and twenty three
+Entered number: 2 -> two
+Entered number: 123232 -> one hundred and twenty three thousand two hundred and thirty two
+Entered number: 54 -> fifty four
+Entered number: 5 -> five
+Entered number: 54546 -> fifty four thousand five hundred and forty six
